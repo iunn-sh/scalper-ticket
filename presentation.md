@@ -1,5 +1,5 @@
 ---
-title: 法律例會
+title: 販賣黃牛票之法律責任
 author: Jackie Yang
 theme: uncover
 class: invert
